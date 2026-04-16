@@ -24,7 +24,7 @@ With a rich tapestry of experience woven over many years, I architect the digita
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" width="40" height="30" />
       </a>
     </td>
-    <td style="padding-left: 10px;">
+    <td style="padding-left: 10px; border:0;">
       <a href="https://stackoverflow.com/users/23896530/jimmy-liew" target="_blank">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="StackOverflow" width="40" height="30" />
       </a>
