@@ -12,7 +12,7 @@ With a rich tapestry of experience woven over many years, I architect the digita
 
 ### 🛠 Skills & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=azure,aws,py,php,vscode,html,mysql,wordpress,raspberrypi" />
+  <img src="https://skillicons.dev/icons?i=azure,aws,py,php,vscode,html,mysql,wordpress,raspberrypi, terraform" />
 </p>
 
 ### 🔗 Connect with me
