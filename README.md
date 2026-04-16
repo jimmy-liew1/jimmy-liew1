@@ -17,8 +17,7 @@ With a rich tapestry of experience woven over many years, I architect the digita
 
 ### 🔗 Connect with me
 <p align="left">
-<a href="https://github.com/jimmy-liew1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="jimmy-liew1" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/23896530/jimmy-liew" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="jimmy-liew" height="30" width="40" /></a>
+<a href="https://github.com/jimmy-liew1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="jimmy-liew1" height="30" width="40" /></a><a href="https://stackoverflow.com/users/23896530/jimmy-liew" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="jimmy-liew" height="30" width="40" /></a>
 </p>
 
 ---
